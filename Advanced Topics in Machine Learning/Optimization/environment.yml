@@ -1,0 +1,12 @@
+name: optimization
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyter
+  - numpy
+  - nb_conda
+  - matplotlib
+  - scipy
+prefix: /home/isak/anaconda3/envs/optimization
